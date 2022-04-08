@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="firstNumHINT">Enter First Number</string>
+    <string-array name="mathSymbolsHINT">
+        <item name = "add">+</item>
+        <item name = "subtract">-</item>
+        <item name = "multiply">*</item>
+        <item name = "divide">/</item>
+        <item name = "modulus">%</item>
+    </string-array>
+    <string name="secondNumHINT">Enter Second Number</string>
+    <string name="btnCalculate">Calc</string>>
+    <string name="btnClear">Clear</string>
+    <string name="tvResultsHINT">Results Show Here</string>
+    <string name="tvErrorsHINT">Errors Show Here</string>
+    <string name="btnExit">Exit</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Guess</string>
+    <string name="titleTv">Guess The Number</string>
+    <string name="numberHINT">Input Guess (1 - 100)</string>
+    <string name="calculateGuessBTN">Calc</string>
+    <string name="clearBTN">Clear</string>
+    <string name="exitBTN">Exit</string>
+    <string name="errorHINT">Display Error Here</string>
+    <string name="resultsHINT">Display Results Here</string>
+</resources>
