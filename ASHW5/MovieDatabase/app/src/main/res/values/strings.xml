@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Movie Database</string>
+    <string name="fabAddCd">Add floating action button</string>
+
+    <string name="etMovieTitleHINT">Input Title of Movie</string>
+    <string name="etMovieDirectorHINT">Input Director of Movie</string>
+    <string name="etMovieLengthHINT">Input Length of Movie</string>
+
+    <string name="updateMovieEt">Update Movie Title</string>
+    <string name="updateDirectorEt">Update Movie Director</string>
+    <string name="updateLengthEt">Update Movie Length</string>
+    <string name="btnUpdateMovie">Update Movie</string>
+    <string name="btnUpdateReturnHome">Return To Movie Library</string>
+    <string name="btnDeleteMovie">Delete Movie</string>
+
+    <string name="btnAddMovie">Add Movie</string>
+    <string name="btnAddActivityReturnToLibrary">Return to Movie Library</string>
+</resources>
