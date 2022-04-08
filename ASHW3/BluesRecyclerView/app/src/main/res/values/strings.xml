@@ -1,0 +1,165 @@
+<resources>
+    <string name="app_name">BluesRecyclerView</string>
+
+    <string name="tvPlayerNameHint">Name</string>
+    <string name="tvPlayerNumberHint">Number</string>
+    <string name="tvPlayerPositionHint">Position</string>
+    <string name="tvPlayerDescriptionHint">Bio</string>
+    <string name="alertTitle">Removing a Player</string>
+    <string name="btnReturnHome">Return To Roster</string>
+    <string name="ivIndPlayerContentDescription">Individual Player Image</string>
+    <string name="alertMessage">Are You Sure You Want to Remove The Player?</string>
+    <string name="tvSplashScreenTitle">The St. Louis Blues</string>
+    <string name="tvSplashScreenContentDescription">2019 Stanley Cup Champions</string>
+    <string name="ivSplashScreenContentDescription">The Players Of The Blues</string>
+    <string name="row_layoutImageViewContentDescription">Individual Player Image</string>
+
+    <string-array name="player_name">
+        <item>Ivan Barbashev</item>
+        <item>Tyler Bozak</item>
+        <item>Logan Brown</item>
+        <item>Pavel Buchnevich</item>
+        <item>Dakota Joshua</item>
+        <item>Klim Klostin</item>
+        <item>Jordan Kyrou</item>
+        <item>Ryan OReilly</item>
+        <item>David Perron</item>
+        <item>Brandon Saad</item>
+        <item>Brayden Schenn</item>
+        <item>Oskar Sundqvist</item>
+        <item>Vladimir Tarasenko</item>
+        <item>Robert Thomas</item>
+        <item>Robert Bortuzzo</item>
+        <item>Justin Faulk</item>
+        <item>Torey Krug</item>
+        <item>Niko Mikkola</item>
+        <item>Colton Parayko</item>
+        <item>Scott Perunovich</item>
+        <item>Marco Scandella</item>
+        <item>Jake Wallman</item>
+        <item>Jordan Binnington</item>
+        <item>Ville Husso </item>
+    </string-array>
+
+    <string-array name="player_number">
+        <item>#49</item>
+        <item>#21</item>
+        <item>#22</item>
+        <item>#89</item>
+        <item>#54</item>
+        <item>#37</item>
+        <item>#25</item>
+        <item>#90</item>
+        <item>#57</item>
+        <item>#20</item>
+        <item>#10</item>
+        <item>#70</item>
+        <item>#91</item>
+        <item>#18</item>
+        <item>#41</item>
+        <item>#72</item>
+        <item>#47</item>
+        <item>#77</item>
+        <item>#55</item>
+        <item>#48</item>
+        <item>#6</item>
+        <item>#46</item>
+        <item>#60</item>
+        <item>#35</item>
+    </string-array>
+
+    <string-array name="player_position">
+        <item>Center</item>
+        <item>Center</item>
+        <item>Center</item>
+        <item>Left Wing</item>
+        <item>Center</item>
+        <item>Center</item>
+        <item>Center</item>
+        <item>Center</item>
+        <item>Left Wing</item>
+        <item>Left Wing</item>
+        <item>Center</item>
+        <item>Center</item>
+        <item>Right Wing</item>
+        <item>Center</item>
+        <item>Rover</item>
+        <item>Rover</item>
+        <item>Defenseman</item>
+        <item>Defenseman</item>
+        <item>Defenseman</item>
+        <item>Defenseman</item>
+        <item>Defenseman</item>
+        <item>Defenseman</item>
+        <item>Goalie</item>
+        <item>Goalie</item>
+    </string-array>
+
+    <string-array name="player_description">
+        <item>Ivan Barbashev was selected by the Blues in the second round,
+            33rd overall, of the 2014 NHL Entry Draft.</item>
+        <item>Tyler Bozak is a self-described late bloomer, he is a 6-foot-1, 195-pound center
+            who has fashioned a solid NHL career.</item>
+        <item>Logan Brown was traded to St. Louis by Ottawa with a conditional pick in the
+            2022 NHL Draft for Zach Sanford.</item>
+        <item>Pavel Buchnevich was from the New York Rangers development camp. He made it clear he
+            was ready for the challenges that awaited him in his first season in North America.</item>
+        <item>Dakota Joshua was traded to St. Louis by Toronto for future considerations on
+            July 12, 2019.</item>
+        <item>Klim Kostin was drafted by the Blues in the 2017 draft, as the 31st overall pick.</item>
+        <item>Jordan Kyrou, a Toronto native, was selected in the second round at pick 35 of
+            the 2016 NHL Draft.</item>
+        <item>Ryan OReilly had a record shattering first season with the Blues after being
+            acquired in 2018. He led the Blues in scoring during the regular season 77 points.
+            28 being goals, and the other 49 being assists.</item>
+        <item>David Perron got the Stanley Cup championship with the St. Louis Blues
+            after being acquired from the Vegas Golden Knights during the 2019 season.</item>
+        <item>Brandon Saad is the son of a Syrian immigrant and a grandson of a
+            former NFL official who worked two Super Bowls. As you can tell, he does not come from
+            a hockey background. At a young age though, he knew he would grow up to be an NHL star.</item>
+        <item>Brayden Schenn is a high paid center who was eligible to become a restricted free agent
+            after the 2015-16 season. He finished with 44 points in the final 46 games
+            for the Philadelphia Flyers. </item>
+        <item>Oskar Sundqvist got his name on the Stanley Cup in 2019 after being a regular on
+            the fourth line for the St. Louis Blues. He contributed
+            nine points (four goals, five assists) and played solid defense
+            during the Blues Stanley Cup run.</item>
+        <item>Vladimir Tarasenko is spectacular right winger with amazing one-on-one skills,
+            speed, and finishing prowess. His skills have helped him get compared to
+            Hockey Hall of Fame center Sergei Fedorov. He wears No. 91 in tribute to
+            his fellow Russian.</item>
+        <item>Robert Thomas was picked at Number 20 in the first round by the St. Louis Blues
+            in the 2017 NHL Draft. He stepped into their lineup as a 19-year-old and
+            made himself right at home. The native of Aurora, Ontario,
+            played 70 games as a rookie in 2018-19</item>
+        <item>Robert Bortuzzo is a physical defenseman who does not fill up the scoresheet,
+            yet is a reliable puck-mover with a solid right-hand shot.</item>
+        <item>Justin Faulk lists his mother as the biggest influence on his hockey career.
+            She took him skating when he was 3, and decided to take him back for another try a
+            few months later after Justin failed so miserably during the initial attempt.</item>
+        <item>Torey Krug is an undersized NHl defenceman who went undrafted. Since making his name
+            known in the 2013 Stanley Cup Playoffs, he has become a staple of the Blues defense.</item>
+        <item>Niko Mikkola, a finnish born defenceman acquired by the Blues in the 2015 draft
+            at 127th overall (Rd 5, Pick 6).</item>
+        <item>Colton Parayko, 6-foot-6 and 226 pound defenceman that could fly under the radar.
+            He was referred to as the St. Louis Blues secret weapon, helping the Blues win their
+            first Stanley Cup.</item>
+        <item>Scott Perunovich is currently playing for the Springfield Thunderbirds
+            as a prospect of the Blues, after being drafted 45th overall in the NHL Entry Draft.</item>
+        <item>Marco Scandella did not enjoy a smooth ride to success in the NHL.
+            A second-round pick by the Minnesota Wild in the 2008 NHL Draft, the defenceman
+            joined the "show" in the 2010-11 season.</item>
+        <item>Jake Wallman is currently playing for the Blues,after being picked
+            82nd overall in the NHL Entry Draft in 2014.</item>
+        <item>Jordan Binnington was 25 when the St. Louis Blues finally gave
+            him a chance midway through the 2018-19 season. Eventually, Binnington
+            helped the Blues achieve a Stanley Cup birth coming from dead last in their conference.
+            With his help and the other players of the Blues,
+            they would go on to win the Cup that season.</item>
+        <item>Ville Husso was a backup goalie for the Blues, and was on the practice squad
+            during the 2019 Stanley Cup season. Due to several injury callups, he would
+            eventually achieve his first opportunity to play in the NHL during the 2020-21 season.
+            He went 9-6-1 with a 3.21 goals-against average, a .893 save percentage
+            and one shutout in 17 games (15 starts) for the St. Louis Blues.</item>
+    </string-array>
+</resources>

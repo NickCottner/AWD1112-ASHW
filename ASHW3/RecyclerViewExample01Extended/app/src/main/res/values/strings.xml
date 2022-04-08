@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Programming Languages</string>
+    <string name="tvLanguageNameHint">Name of Language</string>
+    <string name="tvLanguageBirthDateHint">Circa</string>
+    <string name="tvLanguageDescriptionHint">Description</string>
+    <string name="tvSplashScreenTitle">Programming Languages</string>
+    <string name="ivSplashScreenContentDescription">programming languages</string>
+    <string name="ivContentDescription">Program Language Image</string>
+    <string name="btnReturnHome">Return To Home</string>
+    <string name="rowTvDescription">Description Shows In Individual Language Activity</string>
+    <string-array name="language_name">
+        <item>Android</item>
+        <item>Bootstrap</item>
+        <item>C#</item>
+        <item>CSS 3</item>
+        <item>Git</item>
+        <item>GitHub</item>
+        <item>HTML 5</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>JQuery</item>
+        <item>JSon</item>
+        <item>Kotlin</item>
+        <item>MongoDB</item>
+        <item>MySQL</item>
+        <item>Node Js</item>
+        <item>React</item>
+    </string-array>
+    <string-array name="language_year">
+        <item>2008</item>
+        <item>2011</item>
+        <item>2000</item>
+        <item>1996</item>
+        <item>2005</item>
+        <item>2008</item>
+        <item>2008</item>
+        <item>1996</item>
+        <item>1995</item>
+        <item>2006</item>
+        <item>2001</item>
+        <item>2017</item>
+        <item>2009</item>
+        <item>1995</item>
+        <item>2009</item>
+        <item>2013</item>
+    </string-array>
+    <string-array name="language_description">
+        <item>A mobile operating system based on a modified version of Linux Kernel and other open
+        open source software. Designed primarily for mobile devices.</item>
+        <item>A free open sourced front end development framework for the creation of websites and
+            apps.</item>
+        <item>An OOP language from Microsoft that aims to combine C++ and programming ease of Visual
+        Basic.</item>
+        <item>A stylesheet language used to style programs built with HTML and XML.</item>
+        <item>A software used for tracking changes in any set of files, usually used for coordinating
+            work among programmers collaboratively developing source code during software development.</item>
+        <item>A code hosting platform vor version control and collaboration.</item>
+        <item>The set of markup symbols or codes inserted into a file intended for display on the
+        Internet.</item>
+        <item>An OOP language that produces software for multiple platforms.</item>
+        <item>A lightweight, interpreted, object-oriented language with first class functions. It is
+        known as the scripting language for Web pages.</item>
+        <item>A lightweight, "write less, do more" JavaScript library making it easier to use
+            JavaScript on websites.</item>
+        <item>Javascript Object Notation, is a minimal, readible format for structuring data used to
+        transmit data between a server and a web app, as an alternative to XML.</item>
+        <item>An open-source, statically-typed programming language that supports both OOP and
+        functional programming.</item>
+        <item>An open source NoSQL database management program. NoSQL is used as an alternative
+        to traditional relational databases.</item>
+        <item>A relational management database system developed by Oracle that is based on structured
+        query language (SQL).</item>
+        <item>An open source development platform for executing JavaScript code on the server side.</item>
+        <item>A library for building composable user interfaces, encouraging the creation of reusable
+        UI components.</item>
+
+    </string-array>
+</resources>
