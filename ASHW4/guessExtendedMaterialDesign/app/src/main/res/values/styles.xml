@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.GuessExtended" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="Theme.GuessExtended.Winter" parent="Theme.GuessExtended">
+        <item name="colorPrimary">#6495ED</item>
+        <item name="colorOnPrimary">#ededed</item>
+        <item name="colorSecondary">#cccccc</item>
+        <item name="colorOnSecondary">#191970</item>
+    </style>
+</resources>
