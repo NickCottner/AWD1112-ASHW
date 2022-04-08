@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Resume</string>
+    <string name="btnEducation">Education</string>
+    <string name="btnWorkHistory">Work History</string>
+    <string name="btnCallMe">Call Me</string>
+    <string name="btnEmailMe">Email Me</string>
+    <string name="imageViewAlt">Me</string>
+    <string name="eduImageOne">St. Charles Community College Logo</string>
+    <string name="eduImageTwo">Ranken Technical College Logo</string>
+    <string name="pageEduTitle">My Education</string>
+    <string name="pageWHTitle">My Work History</string>
+    <string name="btnBackToHome">Return To Home</string>
+    <string name="irrelevantWorkHistory">All Other Jobs I Have Had, Have Been in Food</string>
+    </resources>

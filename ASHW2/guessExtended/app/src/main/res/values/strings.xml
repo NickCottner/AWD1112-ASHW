@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">guessExtended</string>
+    <string name="tvTitle">Android Guessing Game App</string>
+    <string name="tvRankTitle">Which Rank Are You?</string>
+    <string name="tvTotalsTitle">Android Guessing Game Rank Totals</string>
+    <string name="etNumHINT">Enter a Guess Between 1 and 100 Here</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="btnClear">Clear</string>
+    <string name="btnRank">Rank</string>
+    <string name="btnTotals">Totals</string>
+    <string name="btnExit">Exit</string>
+    <string name="btnBTH">Back To Home</string>
+    <string name="btnStartNew">Start New Game</string>
+    <string name="contentDescription">Ranks</string>
+    <string name="tvResultsHINT">Your Guess Results Show Here</string>
+    <string name="tvErrorsHINT">Your Error Shows Here</string>
+    <string name="tvRankHINT">Your Rank Shows Here</string>
+    <string name="tvTotalsRN">Total Novices Show Here</string>
+    <string name="tvTotalsRA">Total Amateurs Show Here</string>
+    <string name="tvTotalsRW">Total Wows Show Here</string>
+    <string name="splashScreenTitle">Can You Guess The Number?</string>
+    <string name="splashScreenImgCd">Guess The Number</string>
+</resources>
