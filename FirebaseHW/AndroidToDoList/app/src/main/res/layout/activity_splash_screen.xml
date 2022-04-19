@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#9438ff"
+    android:orientation="vertical"
+    tools:context=".SplashScreenActivity">
+
+    <pl.droidsonroids.gif.GifImageView
+        android:id="@+id/ivSplashScreen"
+        android:layout_width="match_parent"
+        android:layout_height="347dp"
+        android:background="@drawable/android"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <Button
+        android:id="@+id/btnGoToMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:backgroundTint="@color/white"
+        android:text="To Do List"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvButtonHint"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Click &quot;To Do List&quot; To Login"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+
+</LinearLayout>
